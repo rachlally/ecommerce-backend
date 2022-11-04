@@ -13,7 +13,7 @@ To install, download this repo to your local machine.  Download required package
 
 ## Usage
 
-For a video demo: 
+For a video demo: https://drive.google.com/file/d/1jAtewuhreiMetVWeaaDkielMdeVWOTh9/view 
 
 Though not a deployed site, a user may use a program such as Insomnia to see avaliable routes for finding, adding, updating, and deleting tables within the database.
 
